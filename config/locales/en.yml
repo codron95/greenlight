@@ -90,7 +90,7 @@ en:
         title: Maintenance Banner
         display: Set
         clear: Clear
-        time: "Example: Update scheduled on December 13 @ 23:00 ET. Users may experience problems signing in."        
+        time: "Example: Update scheduled on December 13 @ 23:00 ET. Users may experience problems signing in."
       preupload:
         info: Users can preupload a presentation to be used as the default presentation for that specific room
         title: Allow Users to Preupload Presentations
@@ -290,7 +290,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Verismart Video Conference
   header:
     all_recordings: All Recordings
     dropdown:
@@ -314,8 +314,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    about: "Verismart video conferencing allows you to create and join rooms while also tracking recordings for each room."
+    welcome: Welcome to Verismart Video Conferencing.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
@@ -544,7 +544,7 @@ en:
       fail: Failed to delete room (%{error})
     enter_the_access_code: Enter the room's access code
     invalid_provider: You have entered an invalid url. Please check the url and try again.
-    invitation_description: You have been invited to join %{name} using BigBlueButton. To join, click the link above and enter your name.  
+    invitation_description: You have been invited to join %{name} using BigBlueButton. To join, click the link above and enter your name.
     invited: You have been invited to join
     recording_present: I acknowledge that this session is going to be recorded. This may include my voice and video if enabled.
     invite_participants: Invite Participants

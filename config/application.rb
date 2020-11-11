@@ -137,10 +137,10 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "https://raw.githubusercontent.com/bigbluebutton/greenlight/master/app/assets/images/logo_with_text.png"
+    config.branding_image_default = "https://www.verismart.ai/assets/img/client/logo-new.png"
 
     # Default primary color if the user does not specify one
-    config.primary_color_default = "#467fcf"
+    config.primary_color_default = "#3d9972"
 
     # Default primary color lighten if the user does not specify one
     config.primary_color_lighten_default = "#e8eff9"
